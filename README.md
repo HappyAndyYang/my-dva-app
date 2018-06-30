@@ -9,3 +9,6 @@
 ##### cd my-dvs-app
 ##### yarn 
 ##### yarn start
+访问： http://localhost:8000/#/
+
+http://localhost:8000/#/users
