@@ -11,7 +11,7 @@
     "dva": "^2.3.1",
     "dva-loading": "^2.0.3",
     "prop-types": "^15.6.2",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "roadhog-api-doc": "^1.0.4",
